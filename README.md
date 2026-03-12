@@ -8,6 +8,10 @@
 ---
 
 ## 🚀 About Me
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-green)
 
 DevOps Engineer with **5+ years of experience** building scalable cloud platforms and automated delivery pipelines.
 
@@ -33,11 +37,6 @@ Currently exploring:
 | GitOps | ArgoCD |
 | Monitoring | Prometheus, Grafana, CloudWatch |
 | Scripting | Python, Bash |
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
-![CI/CD](https://img.shields.io/badge/CI/CD-Automation-green)
 
 ---
 
