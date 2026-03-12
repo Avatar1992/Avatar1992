@@ -86,6 +86,10 @@ Containerized application with **automated CI/CD pipelines**.
 </p>
 
 ---
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-green)
 
 ## 🌐 Connect With Me
 
