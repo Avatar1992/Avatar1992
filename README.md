@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Avatar%20Patle&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <h1 align="center">DevOps & Cloud Engineer</h1>
 <h3 align="center">AWS • Kubernetes • Terraform • AI Infrastructure</h3>
 
