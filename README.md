@@ -1,30 +1,12 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Avatar%20Patle&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="devops-banner.png" width="100%" />
 </p>
 
-<p align="center">
-<img src="assets/avatar.jpg" width="180"/>
-</p>
-<h3 align="center">DevOps & Cloud Engineer</h3>
-
-<p align="center">
-AWS • Kubernetes • Terraform • CI/CD • AI Infrastructure
-</p>
+## 🚀 About Me
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,githubactions,python,linux,grafana,prometheus" />
 </p>
-
-<h1 align="center">DevOps & Cloud Engineer</h1>
-<h3 align="center">AWS • Kubernetes • Terraform • AI Infrastructure</h3>
-
----
-
-## 🚀 About Me
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
-![CI/CD](https://img.shields.io/badge/CI/CD-Automation-green)
 
 DevOps Engineer with **5+ years of experience** building scalable cloud platforms and automated delivery pipelines.
 
