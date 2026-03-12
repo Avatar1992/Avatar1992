@@ -1,5 +1,19 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Avatar%20Patle&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Avatar%20Patle&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+<img src="assets/avatar.jpg" width="170" style="border-radius:50%; border:4px solid #2c5364;" />
+</p>
+
+<h3 align="center">DevOps & Cloud Engineer</h3>
+
+<p align="center">
+AWS • Kubernetes • Terraform • CI/CD • AI Infrastructure
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,githubactions,python,linux,grafana,prometheus" />
 </p>
 
 <h1 align="center">DevOps & Cloud Engineer</h1>
