@@ -1,83 +1,89 @@
-<h1 align="center">Hi 👋, I'm Avatar Patle</h1>
-<h3 align="center">DevOps & Cloud Engineer | AWS • Kubernetes • Terraform • AI Infrastructure</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;AWS+Cloud+Specialist;Kubernetes+Enthusiast;Automation+Lover;Exploring+AI+Infrastructure&center=true&width=500&height=45">
-</p>
+<h1 align="center">DevOps & Cloud Engineer</h1>
+<h3 align="center">AWS • Kubernetes • Terraform • AI Infrastructure</h3>
 
 ---
 
 ## 🚀 About Me
 
-DevOps & Cloud Engineer with **4+ years of experience** building scalable infrastructure and automated CI/CD pipelines.  
-Strong background in **AWS, Kubernetes, and Infrastructure as Code**, with growing focus on **AI infrastructure and MLOps systems**.
+DevOps Engineer with **4+ years of experience** building scalable cloud platforms and automated delivery pipelines.
+
+Background in **telecom networking**, giving strong fundamentals in **latency, reliability, and distributed systems**.
+
+Currently exploring:
+
+- AI Infrastructure
+- MLOps pipelines
+- Cloud-native inference platforms
+- Distributed systems resilience
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ DevOps Stack
+
+| Category | Tools |
+|--------|------|
+| Cloud | AWS |
+| Containers | Docker, Kubernetes |
+| IaC | Terraform, CloudFormation |
+| CI/CD | Jenkins, GitHub Actions |
+| GitOps | ArgoCD |
+| Monitoring | Prometheus, Grafana, CloudWatch |
+| Scripting | Python, Bash |
+
+---
+
+## 🧠 DevOps Architecture Focus
+
+✔ Cloud Native Systems  
+✔ Infrastructure Automation  
+✔ GitOps Deployment  
+✔ Observability Platforms  
+✔ AI Infrastructure
+
+---
+
+## 📦 Featured Projects
+
+### AI Cloud Native Inference Platform
+Kubernetes-based AI inference service with autoscaling and CI/CD.
+
+### GitOps Microservices Platform
+Microservices deployment using **ArgoCD + Kubernetes**.
+
+### DevOps Flask Automation Platform
+Containerized application with **automated CI/CD pipelines**.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,python,bash,linux,grafana,prometheus" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Avatar1992&show_icons=true&theme=tokyonight"/>
 </p>
 
----
-
-## 🔬 Currently Exploring
-
-- AI Infrastructure & MLOps  
-- Distributed Systems Reliability  
-- Cloud-Native AI Deployments  
-- Observability & AIOps  
-
----
-
-## 🧩 Featured Projects
-
-### 🚀 AI Cloud Native Inference Platform
-Kubernetes-based AI inference service with Docker, Terraform and CI/CD automation.
-
-### ⚙️ GitOps Microservices Deployment
-ArgoCD-based GitOps deployment system for Kubernetes workloads.
-
-### 🐳 DevOps Flask CI/CD Platform
-Containerized Flask application deployed through automated GitHub Actions pipeline.
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Avatar1992&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avatar1992&layout=compact&theme=tokyonight" height="180"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avatar1992&theme=tokyonight"/>
+</p>
 
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Avatar1992&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/avatar-patle-devops-cloud905144226/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-</p>
-
----
-
-⭐ *Always exploring Cloud, DevOps, Distributed Systems and AI Infrastructure*
+LinkedIn  
+https://linkedin.com/in/avatar-patle-devops-cloud905144226
