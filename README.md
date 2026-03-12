@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-<img src="assets/devops-banner.png" width="100%" />
+<img src="assets/avatar.jpg" width="180"/>
 </p>
-
 <h3 align="center">DevOps & Cloud Engineer</h3>
 
 <p align="center">
