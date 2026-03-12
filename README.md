@@ -1,5 +1,5 @@
 <p align="center">
-<img src="devops-banner.png" width="100%" />
+<img src="devops-banner1.png" width="100%" />
 </p>
 
 ## 🚀 About Me
