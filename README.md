@@ -53,28 +53,6 @@ With a background in **telecom networking**, I bring deep understanding of **lat
 
 ---
 
-## 📦 Featured Projects
-
-### 🔹 AI Cloud-Native Inference Platform
-Designed a Kubernetes-based AI inference platform with autoscaling, monitoring, and CI/CD integration for real-time predictions.
-
----
-
-### 🔹 GitOps Microservices Platform
-Implemented a microservices architecture using **Kubernetes + ArgoCD**, enabling automated, version-controlled deployments.
-
----
-
-### 🔹 DevOps Automation Platform
-Built a containerized Flask-based platform integrated with **CI/CD pipelines**, reducing manual deployment efforts and improving release efficiency.
-
----
-
-### 🔹 AWS Data Pipeline Project
-Developed scalable ETL pipelines using **AWS Glue, S3, Athena, and Redshift**, enabling efficient data processing and analytics.
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
