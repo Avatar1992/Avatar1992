@@ -8,7 +8,7 @@
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,githubactions,python,linux,grafana,prometheus" />
 </p>
 
-DevOps & Data Engineer with **5+ years of experience** building scalable cloud platforms, automated CI/CD pipelines, and data-driven systems on AWS.
+Data Engineer with **5+ years of experience** building scalable cloud platforms, automated CI/CD pipelines, and data-driven systems on AWS.
 
 I specialize in **cloud infrastructure, DevOps automation, and data engineering**, with a strong focus on reliability, scalability, and performance.
 
