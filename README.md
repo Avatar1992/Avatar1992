@@ -5,8 +5,9 @@
 # 🚀 About Me
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,githubactions,python,linux,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=aws,S3, Glue, EMR, Kinesis, Athena, kubernetes,docker,terraform,jenkins,githubactions,python,linux,grafana,prometheus,airflow,redshift" />
 </p>
+
 
 AWS Data Engineer specializing in building scalable data pipelines and cloud-native 
 data platforms. Strong expertise in designing data lake architectures and ELT workflows using 
