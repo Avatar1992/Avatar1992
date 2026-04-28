@@ -8,9 +8,16 @@
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,githubactions,python,linux,grafana,prometheus" />
 </p>
 
-Data Engineer with **5+ years of experience** building scalable cloud platforms, automated CI/CD pipelines, and data-driven systems on AWS.
-
-I specialize in **cloud infrastructure, DevOps automation, and data engineering**, with a strong focus on reliability, scalability, and performance.
+AWS Data Engineer specializing in building scalable data pipelines and cloud-native 
+data platforms. Strong expertise in designing data lake architectures and ELT workflows using 
+Python, PySpark, and AWS Glue on Amazon S3. 
+Skilled in processing large-scale datasets, data modeling, partitioning strategies, and developing 
+analytics-ready data using Amazon Athena and Amazon Redshift. 
+Experienced in Apache Spark and currently expanding expertise in Databricks (Delta Lake, 
+Medallion Architecture) and Snowflake (modern data warehousing concepts). 
+Additionally, hands-on with Linux, Docker, Kubernetes (basic), and monitoring tools like Grafana, 
+with exposure to CI/CD practices for data pipelines. Focused on building scalable, reliable, and cost
+efficient data solutions.
 
 With a background in **telecom networking**, I bring deep understanding of **latency optimization, distributed systems, and high-availability architectures**.
 
